@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Prog1/Prog1.csproj" />
+  <Project Path="Prog10/Prog10.csproj" />
+  <Project Path="Prog2/Prog2.csproj" />
+  <Project Path="Prog3/Prog3.csproj" />
+  <Project Path="Prog4/Prog4.csproj" />
+  <Project Path="Prog5/Prog5.csproj" />
+  <Project Path="Prog6/Prog6.csproj" />
+  <Project Path="Prog7/Prog7.csproj" />
+  <Project Path="Prog8/Prog8.csproj" />
+  <Project Path="Prog9/Prog9.csproj" />
+</Solution>
